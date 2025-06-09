@@ -61,8 +61,8 @@ ara replicar as análises e explorar o projeto, siga os passos abaixo:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd <NOME_DO_SEU_REPOSITORIO>
+    git clone https://github.com/joelesilva/telecomx_br.git
+    cd telecomx_br
     ```
 2.  **Abra o Notebook:** Você pode abrir o `TelecomX_BR.ipynb` no Jupyter Notebook, JupyterLab ou Google Colab.
     *   **Jupyter Notebook/Lab:**
