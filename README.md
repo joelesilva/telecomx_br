@@ -8,6 +8,7 @@ Este projeto teve como objetivo principal investigar os fatores que levam à eva
 
 ```bash
 ├── TelecomX_BR.ipynb # O notebook principal que contém todo o fluxo de trabalho, desde a coleta de dados até as análises exploratórias e de correlação.
+├── TelecomX_Data.json # Dataset utilizado na importação dos dados analizados.
 │
 ├── relatorio_final_churn_com_imagens.pdf # Relatório final em PDF
 ├── correlation_analysis_summary.pdf # Relatório Análise de Correlação - Telecom X Churn em PDF
